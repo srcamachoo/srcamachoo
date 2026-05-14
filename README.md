@@ -1,110 +1,87 @@
-<h1 align="center">Hi, I'm Bryan Camacho</h1>
+<h1 align="center">Bryan Camacho</h1>
 
 <p align="center">
-  <strong>Business Informatics Student | QA · Systems Analysis · SQL · IT & Data Fundamentals</strong>
+  <strong>Business Informatics Student</strong><br>
+  Systems Analysis | SQL | Technical Documentation | Academic QA | IT & Data Fundamentals
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bryan-camacho-sanchez">
-    <img src="https://img.shields.io/badge/LinkedIn-Bryan%20Camacho-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:camachobryan37@gmail.com">
-    <img src="https://img.shields.io/badge/Email-camachobryan37%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to-Internships-2EA44F?style=flat-square" alt="Open to internships"/>
+  <a href="https://www.linkedin.com/in/bryan-camacho-sanchez">LinkedIn</a>
+  &nbsp;|&nbsp;
+  <a href="mailto:camachobryan37@gmail.com">Email</a>
+  &nbsp;|&nbsp;
+  <a href="https://github.com/srcamachoo">GitHub</a>
 </p>
 
 ---
 
 ## About me
 
-I'm an advanced **Business Informatics** student at the **University of Costa Rica**, preparing for my supervised internship.
+I am an advanced **Business Informatics** student at the **University of Costa Rica**, preparing for my supervised internship.
 
-My profile sits between **technology, documentation, systems thinking and business processes**. I am especially interested in roles where I can contribute to:
+My profile is centered on **systems analysis, technical documentation, SQL, digital tools, IT support fundamentals and academic QA experience**. I am interested in internship opportunities where I can help connect business needs with structured, practical and well-documented technology solutions.
 
-- QA and software testing
-- Systems analysis and technical documentation
-- SQL and relational databases
-- IT / application support
-- Entry-level data and reporting tasks
-- Web development fundamentals
-
-I am currently building a public GitHub portfolio that connects my academic projects, technical documentation and practical experience with the areas I want to grow into professionally.
+I am currently organizing my GitHub as a public evidence space for academic and personal projects that I can explain clearly in interviews.
 
 ---
 
-## Current professional focus
+## Professional focus
 
 ```text
-QA + Systems Analysis + SQL + Technical Documentation + IT/Data Fundamentals
+Systems Analysis + SQL + Technical Documentation + Academic QA + IT/Data Fundamentals
 ```
 
-My goal is not to present myself as an expert, but as a serious internship candidate with a clear learning path, practical academic experience and evidence I can explain in interviews.
+I do not present myself as an expert. I am building a serious entry-level profile based on academic projects, documentation, practical support experience and a clear learning path.
 
 ---
 
-## Tech & tools
+## Core areas
 
-### QA, documentation and project work
+| Area | What I can currently support |
+|---|---|
+| Systems Analysis | Requirements, use cases, UML, functional documentation and system structure |
+| Academic QA | Quality documentation, test planning support, functional validation and finding documentation |
+| Databases | SQL, relational modeling, SQL Server and basic Oracle PL/SQL |
+| Data Tools | Excel, Google Sheets, formulas, data validation and organized information capture |
+| IT Support | Basic troubleshooting, Windows/Linux basics, virtual machines and user support |
+| Web Fundamentals | HTML, CSS, Bootstrap 5, basic JavaScript and TypeScript project experience |
 
-![QA](https://img.shields.io/badge/QA-Software%20Testing-1F6FEB?style=flat-square)
-![Testing](https://img.shields.io/badge/Testing-Black--box%20Testing-1F6FEB?style=flat-square)
-![ClickUp](https://img.shields.io/badge/ClickUp-Task%20Tracking-7B68EE?style=flat-square&logo=clickup&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Basic-F05032?style=flat-square&logo=git&logoColor=white)
-![Katalon](https://img.shields.io/badge/Katalon-Basic%20Testing-32C766?style=flat-square)
-![Scrum](https://img.shields.io/badge/Scrum-Academic%20Projects-0E7490?style=flat-square)
+---
 
-- Quality plan and test plan documentation
-- Black-box testing and functional validation
-- Finding tracking and QA documentation
-- Use cases, UML, requirements and traceability
+## Tools and technologies
 
-### Data, databases and spreadsheets
+### Analysis, documentation and QA
 
-![SQL](https://img.shields.io/badge/SQL-Relational%20Databases-336791?style=flat-square)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Basic-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Oracle PL/SQL](https://img.shields.io/badge/Oracle%20PL%2FSQL-Basic-F80000?style=flat-square&logo=oracle&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-Formulas%20%26%20Data%20Validation-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-Data%20Organization-34A853?style=flat-square&logo=googlesheets&logoColor=white)
+`Requirements` `Use Cases` `UML` `Technical Documentation` `Functional Documentation` `Traceability` `Quality Plan` `Test Plan` `Black-box Testing` `Functional Validation` `ClickUp` `Git` `Katalon Studio basic`
 
-- Entity-relationship modeling and normalization
-- SQL queries with JOIN, GROUP BY and HAVING
-- Stored procedures, triggers, cursors, indexes and transactions
-- Spreadsheet templates with formulas and data validation
+### Data and databases
 
-### Web, systems and infrastructure fundamentals
+`SQL` `SQL Server` `Oracle PL/SQL basic` `Relational Modeling` `Entity-Relationship Diagrams` `JOIN` `GROUP BY` `HAVING` `Stored Procedures` `Triggers` `Indexes` `Transactions` `Excel` `Google Sheets` `Data Validation`
 
-![HTML](https://img.shields.io/badge/HTML-Basic-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-Basic-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap%205-In%20Progress-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-Basic-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Project%20Experience-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-Basic-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-Support%20Basics-0078D4?style=flat-square&logo=windows&logoColor=white)
+### Systems, support and web
 
-- Web development fundamentals
-- Windows and Linux installations/configuration
-- Virtual machines and basic Linux console usage
-- Networking fundamentals with Cisco Packet Tracer
+`Windows` `Linux basic` `Virtual Machines` `Cisco Packet Tracer` `OSI Model` `Subnetting` `DHCP` `DNS` `HTML` `CSS` `Bootstrap 5` `JavaScript basic` `TypeScript`
 
 ---
 
 ## Featured work in progress
 
-### Risk Management QA Case Study
+### Academic QA Case Study - Risk Management System
 
-Academic case study focused on QA documentation and testing for a risk management system related to a telecommunications room.
+Academic case study from a Software Engineering course where the project team built a functional system from end to end. The team was organized into areas such as analysis, modeling, development, leadership and quality.
 
-**What this project shows**
+My role was related to the **QA area**, where I worked mainly on adapting quality templates provided in the course, documenting the project context, organizing test-related information and supporting functional validations once the system documentation and scope were clear.
 
-- Quality planning
-- Test planning by functional modules
-- Functional validation
-- Finding documentation
-- Basic test automation with Katalon Studio
+**What this project can show**
+
+- Quality documentation adapted to a real project context
+- Test plan documentation
+- Functional validation support
+- Finding and adjustment documentation
+- Basic exposure to Katalon Studio
 - Task tracking and traceability with ClickUp
 
-**Status:** preparing a public case study while protecting sensitive academic/project information.
+**Status:** preparing a public case study while protecting sensitive academic and project information.
 
 ---
 
@@ -112,7 +89,7 @@ Academic case study focused on QA documentation and testing for a risk managemen
 
 Web project built with TypeScript for requesting custom-made sofas.
 
-**What this project shows**
+**What this project can show**
 
 - User flow thinking
 - Product information structure
@@ -127,7 +104,7 @@ Web project built with TypeScript for requesting custom-made sofas.
 
 Academic web system project focused on analysis and design.
 
-**What this project shows**
+**What this project can show**
 
 - Requirements analysis
 - Use cases
@@ -139,7 +116,7 @@ Academic web system project focused on analysis and design.
 
 ---
 
-## What I'm currently learning
+## Currently learning
 
 - Project management
 - Quantitative methods for decision-making
@@ -150,22 +127,22 @@ Academic web system project focused on analysis and design.
 
 ## Internship interests
 
-I'm currently open to internship opportunities related to:
+I am currently open to internship opportunities related to:
 
-- QA Intern
 - Business Analyst Intern
+- Systems Analyst Intern
 - IT Intern
 - Application Support Intern
-- Data Analyst / BI Intern
-- Systems Analyst Intern
+- QA Intern, entry-level
+- Data Analyst / BI Intern, entry-level
 
 ---
 
 ## How I work
 
-- I value clear documentation.
-- I like understanding the business problem before jumping into tools.
-- I try to keep my work structured, traceable and easy to explain.
+- I value clear documentation and traceability.
+- I like understanding the business problem before choosing tools.
+- I prefer structured work that can be reviewed, explained and improved.
 - I am building my portfolio step by step, prioritizing projects I can honestly defend.
 
 ---
